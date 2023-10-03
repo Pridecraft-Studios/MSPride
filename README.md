@@ -1,2 +1,2 @@
 # MSPride
-A version of MS Painted (by Stridey) with PridePack stuff on it!
+A version of PridePack on the style of [MS Painted](https://www.planetminecraft.com/texture-pack/ms-painted/)
