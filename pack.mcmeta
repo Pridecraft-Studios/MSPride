@@ -1,18 +1,6 @@
 {
   "pack": {
-    "pack_format": 17,
-    "description": {
-      "text": "MS Pride 1.0 | Gayed in mspaint",
-      "color": "rainbow",
-      "bold": true,
-      "italic": false,
-      "underlined": false,
-      "strikethrough": false,
-      "obfuscated": false,
-      "clickEvent": {
-        "action": "open_url",
-        "value": "https://pridecraft.gay"
-      }
-    }
+    "pack_format": 22,
+    "description": "§cPr§6id§eep§2ac§9k 5§5.1 §r| Very Gay"
   }
 }
