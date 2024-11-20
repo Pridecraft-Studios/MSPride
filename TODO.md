@@ -3,8 +3,8 @@
 ## Content
 
 - [ ] mspaint versions of all paintings
-- [ ] Candle Block textures
-- [ ] Candle item textures
+- [X] Candle Block textures
+- [X] Candle item textures
 - [ ] Brush item texture
 - [ ] Panorama using MS Pride and MS Painted textures
 - [ ] Fox textures (Thigh Highs)
