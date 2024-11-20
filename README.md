@@ -10,6 +10,10 @@ You can support the developers of Pridecraft Studios by donating on Patreon
 
 [![patreon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/donate/patreon-singular_vector.svg)](https://donate.pridecraft.gay)
 
+<!-- Remove the html comment when posting on Modrinth, Curse or MCPEDL
+
+<iframe src="https://www.youtube.com/embed/ZyazvpZAmGU?autoplay=1&rel=0" width="560" height="315" title="Pridepack Trailer" frameborder="0" allowfullscreen></iframe> -->
+
 ## Screenshots
 
 ![Various Pridepack features sitting on a colourful surface.](https://cdn.modrinth.com/data/yPbBrzEX/images/bd6216e3669d2290f943be8ded4ad478a6ec2ce6.png)
@@ -45,7 +49,7 @@ We make Resource Packs and mods to add LGBT themed stuff to the game, while tryi
 [![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)
 [![Check out our Instagram](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=BA5353&gradientEnd=61003D&lineOne=Check%20out%20our&lineTwo=Instagram&colourOne=FFFFFF&colourTwo=FFF&iconUrl=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png)](https://instagram.com/pridecraftstudios)
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">MS Pride</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 The soundtracks for Joy are licensed from [WorldWidePixel](https://worldwidepixel.ca/), and are **not** available for use under CC BY-SA 4.0. [See here for licensing terms.](https://git.pridecraft.gay/pridepack/blob/main/LICENSE-MUSIC)
 
